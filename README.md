@@ -25,6 +25,7 @@
   </p>
   
   
----
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDevat&theme=radical&show_icons=true)](https://github.com/SaDevat/github-readme-stats)
+
+<!--    --- -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaDevat&theme=radical&show_icons=true)](https://github.com/SaDevat/github-readme-stats) -->
 <!--    </div> -->
